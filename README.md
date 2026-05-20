@@ -11,10 +11,10 @@ This is a database managing project; a REST API for managing tasks, built with N
 - Postman
 
 ## Existing Endpoints ##
-GET    /tasks        - retrieve all tasks
-POST   /tasks        - create a new task (body: { title })
-PUT    /tasks/:id    - update a task (body: { title })
-DELETE /tasks/:id    - delete a task
+- GET    /tasks        - retrieve all tasks
+- POST   /tasks        - create a new task (body: { title })
+- PUT    /tasks/:id    - update a task (body: { title })
+- DELETE /tasks/:id    - delete a task
 
 ## Setup Steps ##
 - Clone the project
